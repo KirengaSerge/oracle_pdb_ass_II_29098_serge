@@ -1,5 +1,7 @@
 # ORACLE PDB ASSIGNMENT II 
+# Repository Link: https://github.com/KirengaSerge/oracle_pdb_ass_II_29098_serge.git
 # PDB created: se_pdb_29098
+# Issues encountered:Yes
 **OVERVIEW OF TASKS**
 The main Oracle environment or application I used for the assignment is Oracle SQL Developer.
 **Task 1**

@@ -17,5 +17,9 @@ Deletion result: <img width="391" height="110" alt="Screenshot 2026-09-21 000410
 **Task 3**
 So for the OEM part, it was difficult to log in to the Enterprise Manager so I attached a screenshot of the Oracle environment I used, that is Oracle SQL Developer, to show the visible username criteria (the Assignment PDB username is 24th).
 <img width="271" height="157" alt="Screenshot 2026-09-22 225453" src="https://github.com/user-attachments/assets/24fa0de7-a3bb-450b-842e-32cca3dd1078" />
+
 **Issues Encountered:**
-I faced the issue of accessing the Oracle Enterprise Manager for the assignment
+I faced the issue of accessing the Oracle Enterprise Manager for the assignment so I found the alternative of showing my work on SQL Developer with the PDB username visible.
+
+**Integrity statement**
+I fully accept that all the statements stated and shown here are truthful and reflect my work.
